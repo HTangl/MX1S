@@ -18,16 +18,16 @@ https://www.amazon.com/dp/B07B79Q911
 
 ## JLCPCB Ordering Guide ##  
 
-Step 1  
+**Step 1**  
 Download the files in this repository by clicking the green code button at the top right and then click "Download ZIP". Once the download is finished unzip the folder. Do not unzip the "MX1S Gerber.zip"  
 
-Step 2  
+**Step 2**  
 Go to [JLCPCB](https://jlcpcb.com/) and click the "Order now" button at the top right. Click on the big blue "Add gerber file" button and upload the "MX1S Gerber.zip" from the Gerber folder.  
 
-Step 3  
+**Step 3**  
 Change "Delivery Format" to "Panel by JLCPCB" and set the column to 4 and the row to 6. This will result in panels with 24 individual PCB's each. JLCPCB has a 5 piece minimum so you will end up with 120 individual PCB's.  
 
-Step 4  
+**Step 4**  
 You can change the PCB color if you'd like, it does not add cost but does increase production time, you can leave all other options set to default. You can now click the big blue "SAVE TO CART" button and go through the rest of the checkout process.  
 
 ## License ##
