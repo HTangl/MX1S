@@ -4,6 +4,8 @@
 
 The MX1S boards are small PCB's meant to attach to any standard MX switch to facilitate solderless wiring.  
 
+The design was inspired by [Crane's](https://github.com/Crane1195) [MX1 boards](https://github.com/Crane1195/Model-MX1). I heavily simplified them hence the MX1S name.
+
 For a demonstration of how these can be implemented check out the DIDIY Assembly Guide video on the [HTangl youtube channel](https://www.youtube.com/channel/UCIHJYzL-LAS2CVR-Q0J305w)  
 
 I sell these on my [Etsy shop](https://www.etsy.com/shop/HTangl), for updates on when a batch is being release please join the [HTangl Discord server](https://discord.gg/yAeFsbCDpv)  
