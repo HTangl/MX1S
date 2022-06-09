@@ -1,5 +1,4 @@
 # MX1S
- Single switch PCBs for MX switches
 ![](https://github.com/HTangl/MX1S/blob/main/Pictures/Completed%20Panel.jpg)  
 ![](https://github.com/HTangl/MX1S/blob/main/Pictures/Switch%203.jpg)
 
