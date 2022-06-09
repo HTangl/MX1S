@@ -10,7 +10,7 @@ For a demonstration of how these can be implemented check out the DIDIY Assembly
 
 I sell these on my [Etsy shop](https://www.etsy.com/shop/HTangl), for updates on when a batch is being release please join the [HTangl Discord server](https://discord.gg/yAeFsbCDpv)  
 
-If you'd like to order these directly from a PCB manufacturer I have provided the necessary gerber zip folder. Below is a guide on how to order from JLCPCB. Besides the boards themselves you will also need Kailh hotswap sockets and some 3 pin 3.5mm pitch screw terminals.  
+If you'd like to order these directly from a PCB manufacturer I have provided the necessary gerber zip folder. Below is a guide on how to order from JLCPCB. Besides the boards themselves you will also need Kailh hotswap sockets and some 3 pin 3.5mm pitch screw terminals.   
 
 Kailh sockets:  
 https://www.amazon.com/dp/B096WZ6TJ5  
