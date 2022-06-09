@@ -1,6 +1,6 @@
 # MX1S
 ![](https://github.com/HTangl/MX1S/blob/main/Pictures/Completed%20Panel.jpg)  
-![](https://github.com/HTangl/MX1S/blob/main/Pictures/Switch%203.jpg)
+![]()
 
 The MX1S boards are small PCB's meant to attach to any standard MX switch to facilitate solderless wiring.  
 
